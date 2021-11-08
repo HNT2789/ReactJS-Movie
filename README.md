@@ -1,6 +1,4 @@
-# dowload project from link github
 
-This is link github [https://github.com/ThanhTrieu/reactjs-2012]
 
 cd to root project
 ### run command: npm install or yarn install
